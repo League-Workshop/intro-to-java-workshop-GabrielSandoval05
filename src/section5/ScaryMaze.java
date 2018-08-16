@@ -32,7 +32,7 @@ public class ScaryMaze extends JPanel implements Runnable, MouseMotionListener {
 		
 		//4. Add a mouse motion listener using:
 		addMouseMotionListener(this);
-		
+		//xx
 	}
 
 	@Override
